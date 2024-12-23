@@ -1,22 +1,23 @@
 # Benvenuti nel mio GitHub! 👋
 
-Ciao! Mi chiamo Giulio F e sono un appassionato/a di **Marketing Strategico** e **Vendite B2B**. 
-Ho un approccio creativo e strategico alla risoluzione dei problemi. Attualmente sto ampliando le mie competenze tecniche con **Python** per applicarle al marketing data-driven.
+Ciao! Mi chiamo Giulio F e sono un appassionato/a di **Coding** applicato alle **Vendite B2B**. 
+Attualmente sto ampliando le mie competenze tecniche con **Python** per applicarle all'email marketing e Linkedin marketing.
 
 ---
 
 ## Cosa troverai qui
 
 - **Script Python**: Automazione di processi e analisi di mercato.
+- **Script VBA**: Automazione di compiti su outlook ed excel.
 - **Esempi di Cold Call B2B**: Tecniche e best practices per vendite telefoniche.
 
 ---
 
 ## Skills Tecniche
 
-- **Linguaggi di Programmazione**: Python (livello base, in apprendimento).
-- **Strumenti di Marketing**: CRM, Analytics, SEO, campagne pubblicitarie online.
-- **Lingue**: Italiano (B2), Inglese (C2), Spagnolo (madrelingua).
+- **Linguaggi di Programmazione**: Python (livello base, in apprendimento) - VBA (livello base, in apprendimento) - HTML (livello base, in apprendimento)
+- **Strumenti di Marketing**: CRM, Outlook, Excel, Linkedin.
+-  **Lingue**: Italiano (madrelingua), Inglese (C2), Spagnolo (C2).
 
 ---
 
@@ -30,8 +31,8 @@ Ho un approccio creativo e strategico alla risoluzione dei problemi. Attualmente
 
 ## Come Contattarmi
 
-- **LinkedIn**: [Il Tuo LinkedIn](#)
-- **Email**: [Il Tuo Email](mailto:#)
+- **LinkedIn**: [[Il Tuo LinkedIn]](https://www.linkedin.com/in/giuliofioravanti/)(#)
+- **Email**: [giulio.fioravanti@recruit.com.mx (mailto:#)
 
 Se hai domande, collaborazioni o vuoi semplicemente fare networking, non esitare a contattarmi!
 
