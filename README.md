@@ -1,4 +1,5 @@
-# Benvenuti nel mio GitHub! 👋 🇲🇽
+# Benvenuti nel mio GitHub! 👋
+🇲🇽
 
 
 Ciao! Mi chiamo Giulio F e sono un appassionato/a di **Coding** applicato alle **Vendite B2B**. 
