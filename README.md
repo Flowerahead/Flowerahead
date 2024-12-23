@@ -1,4 +1,5 @@
-# Benvenuti nel mio GitHub! 👋 :MX
+# Benvenuti nel mio GitHub! 👋 🇲🇽
+
 
 Ciao! Mi chiamo Giulio F e sono un appassionato/a di **Coding** applicato alle **Vendite B2B**. 
 Attualmente sto ampliando le mie competenze tecniche con **Python** per applicarle all'email marketing e Linkedin marketing.
