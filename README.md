@@ -1,5 +1,6 @@
 # Benvenuti nel mio GitHub! 👋
-🇲🇽
+![Mexican Flag](https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg)
+
 
 
 Ciao! Mi chiamo Giulio F e sono un appassionato/a di **Coding** applicato alle **Vendite B2B**. 
